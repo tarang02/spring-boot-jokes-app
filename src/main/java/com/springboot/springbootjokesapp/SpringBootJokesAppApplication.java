@@ -1,13 +1,13 @@
-package com.springboot.jokesapp;
+package com.springboot.springbootjokesapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JokesAppApplication {
+public class SpringBootJokesAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JokesAppApplication.class, args);
+		SpringApplication.run(SpringBootJokesAppApplication.class, args);
 	}
 
 }

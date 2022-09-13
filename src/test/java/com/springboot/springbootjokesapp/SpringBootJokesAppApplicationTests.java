@@ -1,10 +1,10 @@
-package com.springboot.jokesapp;
+package com.springboot.springbootjokesapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JokesAppApplicationTests {
+class SpringBootJokesAppApplicationTests {
 
 	@Test
 	void contextLoads() {
